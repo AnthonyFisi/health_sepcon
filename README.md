@@ -1,4 +1,4 @@
-# Sepcon Salud
+# sepcon_salud
 
 A new Flutter project.
 
