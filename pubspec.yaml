@@ -57,7 +57,7 @@ dependencies:
   opencv_brightness:
     git:
       url: https://github.com/AnthonyFisi/opencv_brigthness.git
-      ref: 39e14ec8de6ca25d382536a4917986399fac6d9a
+      ref: 32c804d55f919471b6a9d907f7aab1063c59a6c0
   flutter_file_downloader: ^1.1.2
   file_picker: ^5.5.0
   pdf_manipulator: ^0.5.9
